@@ -1,0 +1,12 @@
+.container {
+    max-width: 1377px;
+    margin: 0 auto;
+}
+
+ul li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
