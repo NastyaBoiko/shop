@@ -1,0 +1,25 @@
+.hero__container {
+    display: flex;
+    align-items: center;
+}
+
+.hero-img {
+    width: 570px;
+    overflow: hidden;
+}
+
+.hero__img-pic {
+    width: 100%;
+    height: 100%;
+}
+
+.hero__title {
+    max-width: 649px;
+}
+
+.hero__info {
+    font-size: 1.1rem;
+    max-width: 565px;
+    color: #267D49;
+    line-height: 220%;
+}
